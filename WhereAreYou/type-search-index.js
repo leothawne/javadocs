@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"io.github.leothawne.WhereAreYou","l":"WhereAreYou"},{"p":"io.github.leothawne.WhereAreYou.api","l":"WhereAreYouAPI"}]
