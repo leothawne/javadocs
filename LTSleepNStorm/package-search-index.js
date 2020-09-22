@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.leothawne.LTSleepNStorm"},{"l":"io.github.leothawne.LTSleepNStorm.api"}]
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.leothawne.LTSleepNStorm"}]
