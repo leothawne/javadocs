@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"io.github.leothawne.LTItemMail"},{"l":"io.github.leothawne.LTItemMail.api"}]
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.leothawne.LTItemMail.api"}];updateSearchResults();
