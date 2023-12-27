@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.leothawne.LTItemMail.api","l":"LTItemMailAPI"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.leothawne.LTItemMail","l":"LTItemMail"},{"p":"io.github.leothawne.LTItemMail.api","l":"LTItemMailAPI"}];updateSearchResults();
