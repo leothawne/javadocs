@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.leothawne.LTItemMail","l":"LTItemMailAPI"},{"p":"io.github.leothawne.LTItemMail.event","l":"PlayerSendMailEvent"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.leothawne.LTItemMail","l":"LTItemMailAPI"},{"p":"io.github.leothawne.LTItemMail","l":"LTPlayer"},{"p":"io.github.leothawne.LTItemMail.event","l":"PlayerSendMailEvent"}];updateSearchResults();
